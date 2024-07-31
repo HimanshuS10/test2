@@ -1,0 +1,8 @@
+Hi, I’m Nikita Verkhoshintcev, and here’s how I became a self-taught developer.
+My journey began with an idea for an iPhone app, but I didn’t know how to code. A friend introduced me to Treehouse, where I immersed myself in learning programming, dedicating up to 12 hours a day. After a few months, I hit a plateau and took a break.
+When I resumed, I focused on web design, learning HTML, CSS, and design concepts. JavaScript was challenging, especially with layout issues like floats, but a friend helped me out. He also recommended learning Git and MVC for job prospects.
+By May/June 2015, I was taking Front-End Development and Full Stack JavaScript courses on Treehouse. I explored freelancing, read extensively, and learned about WordPress development to give clients control over their websites.
+In August 2015, I started freelancing. My initial challenge was finding clients. Offering my services for free to gain experience led me to my first client—a local goldsmith-designer. This project helped me gain practical experience with WordPress and WooCommerce.
+Next, I tackled AngularJS, creating a single-page application (Magic Spoiler.io). I faced issues like integrating the Disqus plugin and making the site SEO-friendly, but it was a great learning experience. I joined UpWork, landed my first paid job designing and building a WordPress site from scratch, and completed MEAN stack courses through Code School.
+Currently, I’m a Salesforce Developer/Solution Architect at DigitalFlask. For those starting out, there are many free resources available, such as Treehouse, Code School, and FreeCodeCamp. My advice: practice a lot, build your own projects, and create a portfolio. Good luck!
+
